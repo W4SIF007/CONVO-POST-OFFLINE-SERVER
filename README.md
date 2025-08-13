@@ -6,6 +6,8 @@ pip install mechanize
 pip install bs4 
 pip install requests
 pkg install git
-git clone https://github.com/W4SIF007/SERVER.git
-cd SERVER
-python server.py
+rm -rf CONVO-POST-OFFLINE-SERVER
+git clone 
+https://github.com/W4SIF007/CONVO-POST-OFFLINE-SERVER.git
+cd CONVO-POST-OFFLINE-SERVER
+python SERVER.py
